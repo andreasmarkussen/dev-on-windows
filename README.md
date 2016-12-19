@@ -32,3 +32,7 @@ Check it
 set permissions to your SSH folder
 `chown 0600 ~/.ssh/*`
 
+# Working with Vagrant boxes
+
+Remember to set the hostname in the host file
+e.g 127.0.0.1 bildelspriser.dev
